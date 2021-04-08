@@ -1,6 +1,6 @@
 ## hamonikr-environment
 
-하모니카 GUI 환경을 제공하는 메타 패키지입니다.
+하모니카 GUI 환경을 제공하는 메타 패키지입니다
 
 이 프로그램은 HamoniKR 기본 환경을 모두 설치하게 됩니다.
 
@@ -23,7 +23,7 @@ wget -qO- https://pkg.hamonikr.org/add-hamonikr-server-entjin.apt | sudo -E bash
 sudo apt install -y hamonikr-environment
 
 ``` 
-
+ 
 ## LICENSE
 [LICENSE](./LICENSE)
 
