@@ -1,0 +1,68 @@
+hamonikr-environment (2021.04.08) public; urgency=medium
+
+  * Release for HamoniKR 5.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 08 Apr 2021 09:59:33 +0900
+
+hamonikr-environment (2021.03.10-1) entjin; urgency=medium
+
+  * Update debian/control
+   - update depends field
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 10 Mar 2021 15:50:07 +0900
+
+hamonikr-environment (2021.03.10) entjin; urgency=medium
+
+  * Update debian/control
+   - update depends field
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 10 Mar 2021 12:24:10 +0900
+
+hamonikr-environment (2021.03.09) entjin; urgency=medium
+
+  * Changed pkg name
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 09 Mar 2021 17:11:06 +0900
+
+hamonikr-desktop (2021.03.09) entjin; urgency=medium
+
+  * Release for HamoniKR Server 2.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 09 Mar 2021 17:11:06 +0900
+
+hamonikr-meta (2020.11.02) jin; urgency=medium
+
+  * remove dependancy plymouth-theme-hamonikr-logo
+  * remove dependancy plymouth-theme-hamonikr-text
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 02 Nov 2020 15:38:15 +0900
+
+hamonikr-meta (2020.10.30) jin; urgency=medium
+
+  * remove dependancy grub-theme-hamonikr
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 29 Oct 2020 14:43:23 +0900
+
+hamonikr-meta (2020.10.29) jin; urgency=medium
+
+  * remove dependancy hamonikr-backgrounds
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 29 Oct 2020 13:36:09 +0900
+
+hamonikr-meta (2020.10.24) jin; urgency=medium
+
+  * Add dependancy hamonikr-jin-icon-theme
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 24 Oct 2020 16:55:40 +0900
+ 
+hamonikr-meta (2020.10.23) jin; urgency=medium
+
+  * remove hamonikr-jin-theme
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 23 Oct 2020 12:02:44 +0900
+
+hamonikr-meta (2020.10.19) jin; urgency=medium
+
+  * build for HamoniKR 4.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 19 Oct 2020 18:03:43 +0900

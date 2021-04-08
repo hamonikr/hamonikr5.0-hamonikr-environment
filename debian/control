@@ -1,0 +1,27 @@
+Source: hamonikr-environment
+Section: admin
+Priority: optional
+Maintainer: HamoniKR Team <pkg@hamonikr.org>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: hamonikr-environment
+Architecture: all
+Depends: cinnamon-desktop-environment,
+         hamonikr-core,
+         base-files (>= 20.0.1hamonikr7), 
+         ubuntu-dbgsym-keyring,
+         mintreport   
+Recommends: hamonikr-onboard-layout-ko,
+            qt-fsarchiver,
+            stacer,
+            neofetch,
+            boot-select,
+            hamonikr-ff,
+            systemd-tui,
+            albert, 
+            unalz,
+            figlet,
+            fsearch-trunk
+Description: Set of packages of HamoniKR
+ Set of packages installed by default in the Cinnamon edition of HamoniKR.
