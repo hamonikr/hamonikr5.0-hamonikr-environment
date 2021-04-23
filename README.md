@@ -4,7 +4,7 @@
 
 이 프로그램은 HamoniKR 기본 환경을 모두 설치하게 됩니다.
 
-Support : HamoniKR (public >=5.0)
+Support : HamoniKR (hanla >=5.0)
 
 ## Usage
 
